@@ -1,0 +1,227 @@
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" xmlns:ns1="http://www.w3.org/2000/09/xmldsig#" versao="4.00">
+	<NFe>
+		<infNFe Id="NFe7897987898798789798798798789789789789789789798" versao="4.00">
+			<ide>
+				<cUF>43</cUF>
+				<cNF>27498482</cNF>
+				<natOp>VENDA DE PRODUCAO</natOp>
+				<mod>55</mod>
+				<serie>1</serie>
+				<nNF>19531102</nNF>
+				<dhEmi>2019-05-17T21:30:12-03:00</dhEmi>
+				<tpNF>1</tpNF>
+				<idDest>2</idDest>
+				<cMunFG>4310603</cMunFG>
+				<tpImp>1</tpImp>
+				<tpEmis>1</tpEmis>
+				<cDV>3</cDV>
+				<tpAmb>1</tpAmb>
+				<finNFe>1</finNFe>
+				<indFinal>0</indFinal>
+				<indPres>9</indPres>
+				<procEmi>0</procEmi>
+				<verProc>NeoGrid NFe 1.67.0</verProc>
+			</ide>
+			<emit>
+				<CNPJ>99999999999999</CNPJ>
+				<xNome>CAMIL ALIMENTOS S/A</xNome>
+				<enderEmit>
+					<xLgr>R DR AFONSO ESCOBAR</xLgr>
+					<nro>1193</nro>
+					<xBairro>ESTACAO</xBairro>
+					<cMun>4310603</cMun>
+					<xMun>ITAQUI</xMun>
+					<UF>RS</UF>
+					<CEP>97650000</CEP>
+					<cPais>1058</cPais>
+					<xPais>BRASIL</xPais>
+					<fone>5534339600</fone>
+				</enderEmit>
+				<IE>0670042781</IE>
+				<CRT>3</CRT>
+			</emit>
+			<dest>
+				<CNPJ>88888888888888</CNPJ>
+				<xNome>XPTO</xNome>
+				<enderDest>
+					<xLgr>AV MARG DIREITA DO RIO TIETE</xLgr>
+					<nro>342</nro>
+					<xBairro>VILA JAGUARA</xBairro>
+					<cMun>3550308</cMun>
+					<xMun>SAO PAULO</xMun>
+					<UF>SP</UF>
+					<CEP>05118100</CEP>
+					<cPais>1058</cPais>
+					<xPais>BRASIL</xPais>
+					<fone>1136939928</fone>
+				</enderDest>
+				<indIEDest>1</indIEDest>
+				<IE>115967650112</IE>
+			</dest>
+			<entrega>
+				<CNPJ>55555555555555</CNPJ>
+				<xLgr>AV MARGINAL DIREITA DO RIO TIETE</xLgr>
+				<nro>342</nro>
+				<xBairro>VILA JAGUARA</xBairro>
+				<cMun>3550308</cMun>
+				<xMun>SAO PAULO</xMun>
+				<UF>SP</UF>
+				<CEP>05118100</CEP>
+				<cPais>1058</cPais>
+				<xPais>BRASIL</xPais>
+				<IE>115967650112</IE>
+			</entrega>
+			<det nItem="1">
+				<prod>
+					<cProd>1125</cProd>
+					<cEAN>17896006711251</cEAN>
+					<xProd>ARROZ BENEF/POLI L/F T1 CAMIL - 6x5 KG</xProd>
+					<NCM>10063021</NCM>
+					<CFOP>6101</CFOP>
+					<uCom>FD</uCom>
+					<qCom>864.00</qCom>
+					<vUnCom>91.93</vUnCom>
+					<vProd>79427.52</vProd>
+					<cEANTrib>7896006711155</cEANTrib>
+					<uTrib>UN</uTrib>
+					<qTrib>5184.00</qTrib>
+					<vUnTrib>15.3216667</vUnTrib>
+					<indTot>1</indTot>
+					<xPed>48891</xPed>
+				</prod>
+				<imposto>
+					<ICMS>
+						<ICMS20>
+							<orig>0</orig>
+							<CST>20</CST>
+							<modBC>3</modBC>
+							<pRedBC>41.667</pRedBC>
+							<vBC>46332.46</vBC>
+							<pICMS>12.00</pICMS>
+							<vICMS>5559.90</vICMS>
+						</ICMS20>
+					</ICMS>
+					<IPI>
+						<cEnq>999</cEnq>
+						<IPINT>
+							<CST>53</CST>
+						</IPINT>
+					</IPI>
+					<PIS>
+						<PISNT>
+							<CST>06</CST>
+						</PISNT>
+					</PIS>
+					<COFINS>
+						<COFINSNT>
+							<CST>06</CST>
+						</COFINSNT>
+					</COFINS>
+				</imposto>
+			</det>
+			<total>
+				<ICMSTot>
+					<vBC>46332.46</vBC>
+					<vICMS>5559.90</vICMS>
+					<vICMSDeson>0.00</vICMSDeson>
+					<vFCP>0.00</vFCP>
+					<vBCST>0.00</vBCST>
+					<vST>0.00</vST>
+					<vFCPST>0.00</vFCPST>
+					<vFCPSTRet>0.00</vFCPSTRet>
+					<vProd>79427.52</vProd>
+					<vFrete>0.00</vFrete>
+					<vSeg>0.00</vSeg>
+					<vDesc>0.00</vDesc>
+					<vII>0.00</vII>
+					<vIPI>0.00</vIPI>
+					<vIPIDevol>0.00</vIPIDevol>
+					<vPIS>0.00</vPIS>
+					<vCOFINS>0.00</vCOFINS>
+					<vOutro>0.00</vOutro>
+					<vNF>79427.52</vNF>
+				</ICMSTot>
+			</total>
+			<transp>
+				<modFrete>0</modFrete>
+				<transporta>
+					<CNPJ>039999999999999</CNPJ>
+					<xNome>SADI KONFLANZ &amp; CIA LTDA</xNome>
+					<IE>0170095746</IE>
+					<xEnder>RUA CRUZ ALTA 1700 SL 07</xEnder>
+					<xMun>CAMAQUA</xMun>
+					<UF>RS</UF>
+				</transporta>
+				<vol>
+					<qVol>864</qVol>
+					<esp>FARDO</esp>
+					<marca>CAMIL ALIMENTOS S/A</marca>
+					<pesoL>25920.000</pesoL>
+					<pesoB>26140.320</pesoB>
+				</vol>
+			</transp>
+			<cobr>
+				<fat>
+					<nFat>0195311</nFat>
+					<vOrig>79427.52</vOrig>
+					<vDesc>0.00</vDesc>
+					<vLiq>79427.52</vLiq>
+				</fat>
+				<dup>
+					<nDup>001</nDup>
+					<dVenc>2019-07-19</dVenc>
+					<vDup>79427.52</vDup>
+				</dup>
+			</cobr>
+			<pag>
+				<detPag>
+					<indPag>1</indPag>
+					<tPag>15</tPag>
+					<vPag>79427.52</vPag>
+				</detPag>
+			</pag>
+			<infAdic>
+				<infAdFisco>COD.REPART.FISCAL: 7896006700029</infAdFisco>
+				<infCpl> TEXTO FISCAL</infCpl>
+				<obsCont xCampo="mailTransp">
+					<xTexto>transadi@transadi.com.br</xTexto>
+				</obsCont>
+			</infAdic>
+			<compra>
+				<xPed>48891</xPed>
+			</compra>
+		</infNFe>
+		<ns1:Signature>
+			<ns1:SignedInfo>
+				<ns1:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+				<ns1:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+				<ns1:Reference URI="#NFe43190564904295000456550010001953112274984821">
+					<ns1:Transforms>
+						<ns1:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+						<ns1:Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+					</ns1:Transforms>
+					<ns1:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+					<ns1:DigestValue>lXmvPBmf0mqnRqfPqTs/hoWz6dc=</ns1:DigestValue>
+				</ns1:Reference>
+			</ns1:SignedInfo>
+			<ns1:SignatureValue>BuZEn+kB4zzD825Nq1GG0MmZ0vsf+cljZCRJ1wctnTde4fhrKICIrZ4NM4H0eC37ZXvwQ9xr280r15FULpXTadjCtAN42/uc/aYLb4Y9kGiT2frZst6VA1lKiN+KBjvUXd3yF6ODv+zx0asOGII/QYCi0wUe1YX6GJCA6xTmqETXTnQkLJWD4zs4zsglSTIhG5WVdDSrkteza4RUOOhe8Jy0QGYWGko+JbCbTn/+bJc5EEe5PEElgBxTmMupbCZtxPzIkVoEdgEHojsbhDWnooLvlgnHuAfF+oAtEBYmpkZ9FhEgMg7lsttM2hrR73+3/77+w8zHFOpIMKGeWZy9QQ==</ns1:SignatureValue>
+			<ns1:KeyInfo>
+				<ns1:X509Data>
+					<ns1:X509Certificate>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</ns1:X509Certificate>
+				</ns1:X509Data>
+			</ns1:KeyInfo>
+		</ns1:Signature>
+	</NFe>
+	<protNFe versao="4.00">
+		<infProt>
+			<tpAmb>1</tpAmb>
+			<verAplic>NeoGrid 1.67.0</verAplic>
+			<chNFe>78978978978979877897897897897898089898898989</chNFe>
+			<dhRecbto>2019-05-17T21:30:25-03:00</dhRecbto>
+			<nProt>143190090254369</nProt>
+			<digVal>lXmvPBmf0mqnRqfPqTs/hoWz6dc=</digVal>
+			<cStat>100</cStat>
+			<xMotivo>Autorizado o uso da NF-e</xMotivo>
+		</infProt>
+	</protNFe>
+</nfeProc>
