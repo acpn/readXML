@@ -3,8 +3,7 @@ import sys
 import random
 
 ET.register_namespace('', "http://www.portalfiscal.inf.br/nfe")
-file_name = sys.argv[1]
-# Speciffic to GPA due to custom objects   
+file_name = sys.argv[1]   
 
 def computeDv(key):
     mult = [2,3,4,5,6,7,8,9]
